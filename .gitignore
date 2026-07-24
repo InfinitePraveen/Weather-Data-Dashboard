@@ -1,0 +1,4 @@
+.git
+.venv
+notebooks/weather_dashboard_analysis.ipynb
+src/
